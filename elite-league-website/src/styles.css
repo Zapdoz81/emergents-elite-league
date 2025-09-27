@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Fuentes temporales, luego reemplazar por .ttf */
+body {
+  font-family: 'Helvetica', Arial, sans-serif;
+}
+
+h1, h2, h3, .title {
+  font-family: 'Helvetica', Arial, sans-serif; /* luego reemplazar con Foundry Grikny */
+}
